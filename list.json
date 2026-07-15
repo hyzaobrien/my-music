@@ -1,1 +1,20 @@
-
+{
+    "Songs": [
+        {
+            "Title": "ROC - HAPPINES",
+            "Artist": "Qito",
+            "Genre": "RnB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://138635322472291",
+            "Speed": 0.5
+        },
+        {
+            "Title": "DJ BREAKBEAT TERBARU DUMES NDX A.K.A FULL BASS ENAK SEDUNIA",
+            "Artist": "Crayonn",
+            "Genre": "EDM",
+            "ImageId": "",
+            "SoundId": "rbxassetid://85556651700818",
+            "Speed": 1
+        }
+    ]
+}
